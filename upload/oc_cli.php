@@ -1,5 +1,5 @@
 <?php
-//hello test
+
 // Function definitions
 if (!function_exists('oc_cli_output')) {
     function oc_cli_output($message, $exit_status = NULL) {
